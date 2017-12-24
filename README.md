@@ -1,2 +1,2 @@
-# censor
-A list of words to censor.
+# chicken-noises
+BOKBOK
